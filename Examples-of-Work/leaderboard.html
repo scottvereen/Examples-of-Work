@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Leaderboards</title>
+    <link type="text/css" rel="stylesheet" href="footer.css"/>
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <style>
+        /* label underline focus color */
+        .input-field input[type=text]:focus {
+            border-bottom: 1px solid #ff5722;
+            box-shadow: 0 1px 0 0 #000;
+        }
+header, main, footer {
+        padding-left: 300px;
+    }
+    </style>
+</head>
+<body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript" src="js/materialize.min.js"></script>
+    <script type="text/javascript" src="index.js"></script>
+    <script type="text/javascript" src="jquery-3.1.1.js"></script>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <div class="nav-wrapper grey darken-3">
+            <ul class="right hide-on-med-and-down">
+                <li><a href="research.html">Research</a></li>
+                <li><a href="leaderboard.html">Leaderboard</a></li>
+                <li><a id="signout" href="#">Signout</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="row">
+        <div class="s3 m3 l3">
+            <div class="loginDash">
+                <ul id="slide-out" class="side-nav fixed grey darken-3">
+                    <div class="background">
+                        <img src="logos/SiteLogo-White+Orange.png" style= "width:250px;"/>
+                    </div>
+                    <!--Buttons-->
+                    <li class="center"><input type="button" class="waves-effect waves-light btn-large grey lighten-4 black-text" id="btnLogin" value="LOGIN" /> <input type="button" class="waves-effect waves-light btn-large deep-orange black-text" id="btnSignup" value="SIGN UP" /> </li>
+                    <li><div class="divider"></div></li>
+                    <br />
+                    <li class="center"><img src="icons/SocialMediaIcons.png"></li>
+                    <li><div class="divider"></div></li>
+                    <!--SocialMedia icons-->
+                    <div class="input-field">
+                        <div class="container">
+                            <h3 id="lblLogin" class="white-text center">Signup</h3>
+                            <li><input type="text" id="txtUsername" placeholder="Username"></li>
+                            <br />
+                            <li><input type="text" placeholder="Password"> </li>
+                            <br />
+                            <li><input type="text" id="txtEmail" placeholder="Email"> </li>
+                            <br />
+                            <li class="right"><input type="button" class="waves-effect waves-light btn-large deep-orange black-text" id="btnSubmit" value="Submit" /> </li>
+                        </div>
+                    </div>
+                </ul>
+            </div>
+
+            <div class="userDash" style="visibility: hidden">
+                <ul id="slide-out" class="side-nav fixed grey darken-3">
+                    <div class="background">
+                        <img src="logos/SiteLogo-White+Orange.png" style= "width:250px;">
+                    </div>
+                    <li><div class="divider"></div></li>
+                    <span class="right white-text">W-L-T</span>
+                    <a href="#!"><img class="circle" src="avatars/user1.jpg"></a>
+                    <div class="userView">
+                        <span class="white-text name">John Doe</span>
+                        <span class="white-text email">Team1</span>
+                    </div>
+                    <li><div class="divider"></div></li>
+                    <li><a href="editTeam.html"class="white-text"><i class="material-icons deep-orange-text">edit</i>Edit Team</a></li>
+                    <li><div class="divider"></div></li>
+                    <li><a href="trophies.html"class="white-text"><i class="material-icons deep-orange-text">grade</i>Trophies</a></li>
+                    <li><div class="divider"></div></li>
+
+
+                <li>
+                    <div class="input-field">
+                   <a> <i id="btnInvite" class="material-icons prefix deep-orange-text">mail</i>
+                    <input type="text" id="txtInvite" class="white-text" placeholder="   Invite"></a>
+                    </div>
+                </li>
+                <li><div class="divider"></div></li>
+
+<!--Matchups--> <div id="matchups">
+                <li><a class="subheader white-text">Matchups</a></li>
+                <li><a href="matchups.html"><i class="material-icons deep-orange-text right">delete</i>User2</a></li>
+                <li><a href="matchups.html"><i class="material-icons deep-orange-text right">delete</i>User3</a></li>
+                <li><a href="matchups.html"><i class="material-icons deep-orange-text right">delete</i>User4</a></li>
+                <li><a href="matchups.html"><i class="material-icons deep-orange-text right">delete</i>User5</a></li>
+                <li><a href="matchups.html"><i class="material-icons deep-orange-text right">delete</i>User6</a></li>
+                <li><a href="matchups.html"><i class="material-icons deep-orange-text right">delete</i>User7</a></li>
+            </div>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content Placeholder for Sticky Footer -->
+    <main>
+        <br />
+        <div class="container">
+            <div class="row">
+                <div class="co l0">
+                    <ul class="collection with-header">
+                        <li class="collection-header deep-orange"><h4>The League Leaderboard</h4></li>
+                        <!-- Leaderboard Table -->
+                        <table class="striped">
+                            <thead>
+                                <tr class="grey darken-3 white-text">
+                                    <td><b>Rank</b></td>
+                                    <td><b>User Name</b></td>
+                                    <td><b>Record</b></td>
+                                    <td><b>Total Points</b></td>
+                                    <td><b>Win%</b></td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><b>1</b></td>
+                                    <td>User10302</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1748</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>2</b></td>
+                                    <td>User03534</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1743</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>3</b></td>
+                                    <td>User20382</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1720</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>4</b></td>
+                                    <td>User29842</td>
+                                    <td>12 - 0 - 1</td>
+                                    <td>1709</td>
+                                    <td>96.2%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>5</b></td>
+                                    <td>User10302</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1701</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>6</b></td>
+                                    <td>User54263</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1698</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>7</b></td>
+                                    <td>User34543</td>
+                                    <td>12 - 1 - 0</td>
+                                    <td>1697</td>
+                                    <td>92.3%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>8</b></td>
+                                    <td>User75454</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1690</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>9</b></td>
+                                    <td>User18482</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1689</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>10</b></td>
+                                    <td>User15630</td>
+                                    <td>11 - 1 - 1</td>
+                                    <td>1689</td>
+                                    <td>88.5%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>11</b></td>
+                                    <td>User09274</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1685</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>12</b></td>
+                                    <td>User57422</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1682</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>13</b></td>
+                                    <td>User10302</td>
+                                    <td>12 - 0 - 1</td>
+                                    <td>1679</td>
+                                    <td>96.2%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>14</b></td>
+                                    <td>User98203</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1678</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>15</b></td>
+                                    <td>User06288</td>
+                                    <td>12 - 1 - 0</td>
+                                    <td>1676</td>
+                                    <td>92.3%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>16</b></td>
+                                    <td>User79512</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1655</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>17</b></td>
+                                    <td>User23865</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1653</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>18</b></td>
+                                    <td>User20543</td>
+                                    <td>12 - 0 - 1</td>
+                                    <td>1653</td>
+                                    <td>96.2%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>19</b></td>
+                                    <td>User70421</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1652</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>20</b></td>
+                                    <td>User42106</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1649</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>21</b></td>
+                                    <td>User17210</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1649</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>22</b></td>
+                                    <td>User29321</td>
+                                    <td>11 - 0 - 2</td>
+                                    <td>1649</td>
+                                    <td>84.6%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>23</b></td>
+                                    <td>User05367</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1643</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>24</b></td>
+                                    <td>User73226</td>
+                                    <td>13 - 0 - 0</td>
+                                    <td>1642</td>
+                                    <td>100%</td>
+                                </tr>
+                                <tr>
+                                    <td><b>25</b></td>
+                                    <td>User73475</td>
+                                    <td>12 - 1 - 0</td>
+                                    <td>1640</td>
+                                    <td>92.3%</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </main>
+	
+  <!-- Sticky Footer -->
+    <footer class="page-footer footer-copyright grey darken-4 responsive">
+        <div class="container deep-orange-text">
+            <div class="row">
+                <div class="co 10">
+                    © 2016 The League, The Official Fantasy Football Site
+                    <a class="deep-orange-text right" href="leaderboard.html">Leaderboard</a>
+                    <a class="deep-orange-text right" href="research.html">Research&emsp;&emsp;&emsp;</a>
+                    <a class="deep-orange-text right" href="index.html">Home&emsp;&emsp;&emsp;</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

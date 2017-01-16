@@ -1,0 +1,202 @@
+[
+ {
+  "Name": "David Johnson, Ari RB",
+  "Opp": "NO",
+  "Points": "19.9"
+ },
+ {
+  "Name": "Le'Veon Bell, Pit RB",
+  "Opp": "@Cin",
+  "Points": "19.9"
+ },
+ {
+  "Name": "LeSean McCoy, Buf RB",
+  "Opp": "Cle",
+  "Points": "19.1"
+ },
+ {
+  "Name": "Devonta Freeman, Atl RB",
+  "Opp": "SF",
+  "Points": "18"
+ },
+ {
+  "Name": "Ezekiel Elliott, Dal RB",
+  "Opp": "TB",
+  "Points": "15.7"
+ },
+ {
+  "Name": "DeMarco Murray, Ten RB",
+  "Opp": "@KC",
+  "Points": "14.4"
+ },
+ {
+  "Name": "Bilal Powell, NYJ RB",
+  "Opp": "Mia",
+  "Points": "13.9"
+ },
+ {
+  "Name": "Latavius Murray, Oak RB",
+  "Opp": "@SD",
+  "Points": "12.5"
+ },
+ {
+  "Name": "Lamar Miller, Hou RB",
+  "Opp": "Jax",
+  "Points": "12.2"
+ },
+ {
+  "Name": "Jordan Howard, Chi RB",
+  "Opp": "GB",
+  "Points": "12.1"
+ },
+ {
+  "Name": "Jeremy Hill, Cin RB",
+  "Opp": "Pit",
+  "Points": "11.9"
+ },
+ {
+  "Name": "Jay Ajayi, Mia RB",
+  "Opp": "@NYJ",
+  "Points": "11.9"
+ },
+ {
+  "Name": "Carlos Hyde, SF RB",
+  "Opp": "@Atl",
+  "Points": "11.5"
+ },
+ {
+  "Name": "Thomas Rawls, Sea RB",
+  "Opp": "LA",
+  "Points": "11.5"
+ },
+ {
+  "Name": "Robert Kelley, Wsh RB",
+  "Opp": "Car",
+  "Points": "11.2"
+ },
+ {
+  "Name": "Frank Gore, Ind RB",
+  "Opp": "@Min",
+  "Points": "10.8"
+ },
+ {
+  "Name": "Spencer Ware, KC RB",
+  "Opp": "Ten",
+  "Points": "10.3"
+ },
+ {
+  "Name": "LeGarrette Blount, NE RB",
+  "Opp": "@Den",
+  "Points": "10.1"
+ },
+ {
+  "Name": "Isaiah Crowell, Cle RB",
+  "Opp": "@Buf",
+  "Points": "10"
+ },
+ {
+  "Name": "Kenneth Farrow, SD RB",
+  "Opp": "Oak",
+  "Points": "9.5"
+ },
+ {
+  "Name": "Jonathan Stewart, Car RB",
+  "Opp": "@Wsh",
+  "Points": "9.3"
+ },
+ {
+  "Name": "Tevin Coleman, Atl RB",
+  "Opp": "SF",
+  "Points": "9.1"
+ },
+ {
+  "Name": "Doug Martin, TB RB",
+  "Opp": "@Dal",
+  "Points": "9"
+ },
+ {
+  "Name": "Theo Riddick, Det RB  Q",
+  "Opp": "@NYG",
+  "Points": "9"
+ },
+ {
+  "Name": "Todd Gurley, LA RB",
+  "Opp": "@Sea",
+  "Points": "8.6"
+ },
+ {
+  "Name": "Mark Ingram, NO RB",
+  "Opp": "@Ari",
+  "Points": "8.3"
+ },
+ {
+  "Name": "Rashad Jennings, NYG RB",
+  "Opp": "Det",
+  "Points": "7.6"
+ },
+ {
+  "Name": "Ryan Mathews, Phi RB",
+  "Opp": "@Bal",
+  "Points": "7.2"
+ },
+ {
+  "Name": "Chris Ivory, Jax RB  Q",
+  "Opp": "@Hou",
+  "Points": "7.1"
+ },
+ {
+  "Name": "Terrance West, Bal RB",
+  "Opp": "Phi",
+  "Points": "7"
+ },
+ {
+  "Name": "Justin Forsett, Den RB",
+  "Opp": "NE",
+  "Points": "6.8"
+ },
+ {
+  "Name": "Kenneth Dixon, Bal RB",
+  "Opp": "Phi",
+  "Points": "6.7"
+ },
+ {
+  "Name": "Matt Asiata, Min RB",
+  "Opp": "Ind",
+  "Points": "6.7"
+ },
+ {
+  "Name": "Darren Sproles, Phi RB  Q",
+  "Opp": "@Bal",
+  "Points": "6.6"
+ },
+ {
+  "Name": "Jerick McKinnon, Min RB",
+  "Opp": "Ind",
+  "Points": "6.6"
+ },
+ {
+  "Name": "Tim Hightower, NO RB",
+  "Opp": "@Ari",
+  "Points": "6.2"
+ },
+ {
+  "Name": "Ty Montgomery, GB WR, RB",
+  "Opp": "@Chi",
+  "Points": "6.1"
+ },
+ {
+  "Name": "T.J. Yeldon, Jax RB",
+  "Opp": "@Hou",
+  "Points": "6"
+ },
+ {
+  "Name": "Devontae Booker, Den RB",
+  "Opp": "NE",
+  "Points": "5.9"
+ },
+ {
+  "Name": "Dion Lewis, NE RB",
+  "Opp": "@Den",
+  "Points": "5.5"
+ }
+]

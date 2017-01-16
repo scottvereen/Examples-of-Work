@@ -1,0 +1,202 @@
+[
+ {
+  "Name": "Jordan Reed, Wsh TE",
+  "Opp": "Car",
+  "Points": "9.9"
+ },
+ {
+  "Name": "Antonio Gates, SD TE",
+  "Opp": "Oak",
+  "Points": "8.7"
+ },
+ {
+  "Name": "Greg Olsen, Car TE",
+  "Opp": "@Wsh",
+  "Points": "7.8"
+ },
+ {
+  "Name": "Kyle Rudolph, Min TE",
+  "Opp": "Ind",
+  "Points": "7.4"
+ },
+ {
+  "Name": "Jimmy Graham, Sea TE",
+  "Opp": "LA",
+  "Points": "7.3"
+ },
+ {
+  "Name": "Tyler Eifert, Cin TE",
+  "Opp": "Pit",
+  "Points": "6.9"
+ },
+ {
+  "Name": "Travis Kelce, KC TE",
+  "Opp": "Ten",
+  "Points": "6.7"
+ },
+ {
+  "Name": "Ladarius Green, Pit TE",
+  "Opp": "@Cin",
+  "Points": "6.5"
+ },
+ {
+  "Name": "Delanie Walker, Ten TE",
+  "Opp": "@KC",
+  "Points": "6.5"
+ },
+ {
+  "Name": "Cameron Brate, TB TE",
+  "Opp": "@Dal",
+  "Points": "6.3"
+ },
+ {
+  "Name": "Jason Witten, Dal TE",
+  "Opp": "TB",
+  "Points": "5.8"
+ },
+ {
+  "Name": "C.J. Fiedorowicz, Hou TE  Q",
+  "Opp": "Jax",
+  "Points": "5.7"
+ },
+ {
+  "Name": "Eric Ebron, Det TE",
+  "Opp": "@NYG",
+  "Points": "5.6"
+ },
+ {
+  "Name": "Hunter Henry, SD TE",
+  "Opp": "Oak",
+  "Points": "5.2"
+ },
+ {
+  "Name": "Zach Ertz, Phi TE",
+  "Opp": "@Bal",
+  "Points": "5.1"
+ },
+ {
+  "Name": "Will Tye, NYG TE",
+  "Opp": "Det",
+  "Points": "4.8"
+ },
+ {
+  "Name": "Coby Fleener, NO TE",
+  "Opp": "@Ari",
+  "Points": "4.7"
+ },
+ {
+  "Name": "Jermaine Gresham, Ari TE",
+  "Opp": "NO",
+  "Points": "4.6"
+ },
+ {
+  "Name": "Jared Cook, GB TE  Q",
+  "Opp": "@Chi",
+  "Points": "4.6"
+ },
+ {
+  "Name": "Martellus Bennett, NE TE",
+  "Opp": "@Den",
+  "Points": "4.5"
+ },
+ {
+  "Name": "Dennis Pitta, Bal TE",
+  "Opp": "Phi",
+  "Points": "4.4"
+ },
+ {
+  "Name": "Dwayne Allen, Ind TE",
+  "Opp": "@Min",
+  "Points": "4.4"
+ },
+ {
+  "Name": "Neal Sterling, Jax TE",
+  "Opp": "@Hou",
+  "Points": "4.2"
+ },
+ {
+  "Name": "Gary Barnidge, Cle TE",
+  "Opp": "@Buf",
+  "Points": "4.1"
+ },
+ {
+  "Name": "Austin Hooper, Atl TE",
+  "Opp": "SF",
+  "Points": "3.9"
+ },
+ {
+  "Name": "Lance Kendricks, LA TE",
+  "Opp": "@Sea",
+  "Points": "3.9"
+ },
+ {
+  "Name": "Jack Doyle, Ind TE",
+  "Opp": "@Min",
+  "Points": "3.5"
+ },
+ {
+  "Name": "Blake Bell, SF TE",
+  "Opp": "@Atl",
+  "Points": "3.4"
+ },
+ {
+  "Name": "Clive Walford, Oak TE",
+  "Opp": "@SD",
+  "Points": "3.4"
+ },
+ {
+  "Name": "A.J. Derby, Den TE",
+  "Opp": "NE",
+  "Points": "3.3"
+ },
+ {
+  "Name": "Charles Clay, Buf TE",
+  "Opp": "Cle",
+  "Points": "3.3"
+ },
+ {
+  "Name": "Vernon Davis, Wsh TE",
+  "Opp": "Car",
+  "Points": "3.2"
+ },
+ {
+  "Name": "Garrett Celek, SF TE",
+  "Opp": "@Atl",
+  "Points": "3.1"
+ },
+ {
+  "Name": "Daniel Brown, Chi WR, TE",
+  "Opp": "GB",
+  "Points": "3.1"
+ },
+ {
+  "Name": "Ryan Griffin, Hou TE",
+  "Opp": "Jax",
+  "Points": "2.9"
+ },
+ {
+  "Name": "Dion Sims, Mia TE",
+  "Opp": "@NYJ",
+  "Points": "2.4"
+ },
+ {
+  "Name": "Jesse James, Pit TE",
+  "Opp": "@Cin",
+  "Points": "2.1"
+ },
+ {
+  "Name": "Richard Rodgers, GB TE",
+  "Opp": "@Chi",
+  "Points": "1.9"
+ },
+ {
+  "Name": "Mychal Rivera, Oak TE",
+  "Opp": "@SD",
+  "Points": "1.8"
+ },
+ {
+  "Name": "Austin Seferian-Jenkins, NYJ TE",
+  "Opp": "Mia",
+  "Points": "1.7"
+ }
+]

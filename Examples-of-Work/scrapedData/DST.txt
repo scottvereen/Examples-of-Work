@@ -1,0 +1,162 @@
+[
+ {
+  "Name": "Seahawks D/ST D/ST",
+  "Opp": "LA",
+  "Points": "13.2"
+ },
+ {
+  "Name": "Ravens D/ST D/ST",
+  "Opp": "Phi",
+  "Points": "10.8"
+ },
+ {
+  "Name": "Bills D/ST D/ST",
+  "Opp": "Cle",
+  "Points": "10"
+ },
+ {
+  "Name": "Texans D/ST D/ST",
+  "Opp": "Jax",
+  "Points": "9.6"
+ },
+ {
+  "Name": "Packers D/ST D/ST",
+  "Opp": "@Chi",
+  "Points": "9.5"
+ },
+ {
+  "Name": "Jets D/ST D/ST",
+  "Opp": "Mia",
+  "Points": "9.5"
+ },
+ {
+  "Name": "Dolphins D/ST D/ST",
+  "Opp": "@NYJ",
+  "Points": "8.6"
+ },
+ {
+  "Name": "Falcons D/ST D/ST",
+  "Opp": "SF",
+  "Points": "8.2"
+ },
+ {
+  "Name": "Patriots D/ST D/ST",
+  "Opp": "@Den",
+  "Points": "7.9"
+ },
+ {
+  "Name": "Raiders D/ST D/ST",
+  "Opp": "@SD",
+  "Points": "7.6"
+ },
+ {
+  "Name": "Buccaneers D/ST D/ST",
+  "Opp": "@Dal",
+  "Points": "7.4"
+ },
+ {
+  "Name": "Colts D/ST D/ST",
+  "Opp": "@Min",
+  "Points": "7.3"
+ },
+ {
+  "Name": "Chiefs D/ST D/ST",
+  "Opp": "Ten",
+  "Points": "7.3"
+ },
+ {
+  "Name": "Eagles D/ST D/ST",
+  "Opp": "@Bal",
+  "Points": "7.3"
+ },
+ {
+  "Name": "Lions D/ST D/ST",
+  "Opp": "@NYG",
+  "Points": "7"
+ },
+ {
+  "Name": "Titans D/ST D/ST",
+  "Opp": "@KC",
+  "Points": "6.9"
+ },
+ {
+  "Name": "Bengals D/ST D/ST",
+  "Opp": "Pit",
+  "Points": "6.7"
+ },
+ {
+  "Name": "Broncos D/ST D/ST",
+  "Opp": "NE",
+  "Points": "6.7"
+ },
+ {
+  "Name": "Vikings D/ST D/ST",
+  "Opp": "Ind",
+  "Points": "6.7"
+ },
+ {
+  "Name": "Steelers D/ST D/ST",
+  "Opp": "@Cin",
+  "Points": "6.5"
+ },
+ {
+  "Name": "Jaguars D/ST D/ST",
+  "Opp": "@Hou",
+  "Points": "6.5"
+ },
+ {
+  "Name": "Rams D/ST D/ST",
+  "Opp": "@Sea",
+  "Points": "6.4"
+ },
+ {
+  "Name": "Cardinals D/ST D/ST",
+  "Opp": "NO",
+  "Points": "6.4"
+ },
+ {
+  "Name": "Chargers D/ST D/ST",
+  "Opp": "Oak",
+  "Points": "6.3"
+ },
+ {
+  "Name": "Giants D/ST D/ST",
+  "Opp": "Det",
+  "Points": "6.3"
+ },
+ {
+  "Name": "Redskins D/ST D/ST",
+  "Opp": "Car",
+  "Points": "6"
+ },
+ {
+  "Name": "Cowboys D/ST D/ST",
+  "Opp": "TB",
+  "Points": "6"
+ },
+ {
+  "Name": "Bears D/ST D/ST",
+  "Opp": "GB",
+  "Points": "5.7"
+ },
+ {
+  "Name": "Saints D/ST D/ST",
+  "Opp": "@Ari",
+  "Points": "5.4"
+ },
+ {
+  "Name": "Panthers D/ST D/ST",
+  "Opp": "@Wsh",
+  "Points": "5.2"
+ },
+ {
+  "Name": "Browns D/ST D/ST",
+  "Opp": "@Buf",
+  "Points": "4.9"
+ },
+ {
+  "Name": "49ers D/ST D/ST",
+  "Opp": "@Atl",
+  "Points": "1.7"
+ }
+]

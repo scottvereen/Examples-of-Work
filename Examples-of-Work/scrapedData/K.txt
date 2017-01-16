@@ -1,0 +1,202 @@
+[
+ {
+  "Name": "Matt Bryant, Atl K",
+  "Opp": "SF",
+  "Points": "11.7"
+ },
+ {
+  "Name": "Dustin Hopkins, Wsh K",
+  "Opp": "Car",
+  "Points": "11.3"
+ },
+ {
+  "Name": "Justin Tucker, Bal K",
+  "Opp": "Phi",
+  "Points": "9.7"
+ },
+ {
+  "Name": "Nick Novak, Hou K",
+  "Opp": "Jax",
+  "Points": "9.6"
+ },
+ {
+  "Name": "Matt Prater, Det K",
+  "Opp": "@NYG",
+  "Points": "9.2"
+ },
+ {
+  "Name": "Sebastian Janikowski, Oak K",
+  "Opp": "@SD",
+  "Points": "9"
+ },
+ {
+  "Name": "Kai Forbath, Min K",
+  "Opp": "Ind",
+  "Points": "9"
+ },
+ {
+  "Name": "Adam Vinatieri, Ind K",
+  "Opp": "@Min",
+  "Points": "8.6"
+ },
+ {
+  "Name": "Dan Bailey, Dal K",
+  "Opp": "TB",
+  "Points": "8.4"
+ },
+ {
+  "Name": "Brandon McManus, Den K",
+  "Opp": "NE",
+  "Points": "8.4"
+ },
+ {
+  "Name": "Chandler Catanzaro, Ari K",
+  "Opp": "NO",
+  "Points": "8.3"
+ },
+ {
+  "Name": "Dan Carpenter, Buf K",
+  "Opp": "Cle",
+  "Points": "8.1"
+ },
+ {
+  "Name": "Cairo Santos, KC K",
+  "Opp": "Ten",
+  "Points": "7.8"
+ },
+ {
+  "Name": "Nick Folk, NYJ K",
+  "Opp": "Mia",
+  "Points": "7.8"
+ },
+ {
+  "Name": "Mason Crosby, GB K",
+  "Opp": "@Chi",
+  "Points": "7.7"
+ },
+ {
+  "Name": "Josh Lambo, SD K",
+  "Opp": "Oak",
+  "Points": "7.6"
+ },
+ {
+  "Name": "Graham Gano, Car K",
+  "Opp": "@Wsh",
+  "Points": "7.5"
+ },
+ {
+  "Name": "Stephen Gostkowski, NE K",
+  "Opp": "@Den",
+  "Points": "7.4"
+ },
+ {
+  "Name": "Roberto Aguayo, TB K",
+  "Opp": "@Dal",
+  "Points": "7.3"
+ },
+ {
+  "Name": "Wil Lutz, NO K",
+  "Opp": "@Ari",
+  "Points": "7.1"
+ },
+ {
+  "Name": "Phil Dawson, SF K",
+  "Opp": "@Atl",
+  "Points": "7"
+ },
+ {
+  "Name": "Steven Hauschka, Sea K",
+  "Opp": "LA",
+  "Points": "7"
+ },
+ {
+  "Name": "Mike Nugent, Cin K",
+  "Opp": "Pit",
+  "Points": "6.9"
+ },
+ {
+  "Name": "Ryan Succop, Ten K",
+  "Opp": "@KC",
+  "Points": "6.7"
+ },
+ {
+  "Name": "Chris Boswell, Pit K",
+  "Opp": "@Cin",
+  "Points": "6.6"
+ },
+ {
+  "Name": "Andrew Franks, Mia K",
+  "Opp": "@NYJ",
+  "Points": "6.6"
+ },
+ {
+  "Name": "Caleb Sturgis, Phi K",
+  "Opp": "@Bal",
+  "Points": "6.5"
+ },
+ {
+  "Name": "Jason Myers, Jax K",
+  "Opp": "@Hou",
+  "Points": "6.1"
+ },
+ {
+  "Name": "Cody Parkey, Cle K",
+  "Opp": "@Buf",
+  "Points": "6.1"
+ },
+ {
+  "Name": "Connor Barth, Chi K",
+  "Opp": "GB",
+  "Points": "5.8"
+ },
+ {
+  "Name": "Robbie Gould, NYG K",
+  "Opp": "Det",
+  "Points": "5.6"
+ },
+ {
+  "Name": "Greg Zuerlein, LA K",
+  "Opp": "@Sea",
+  "Points": "4.1"
+ },
+ {
+  "Name": "Jay Feely, FA K",
+  "Opp": "",
+  "Points": "--"
+ },
+ {
+  "Name": "Shayne Graham, Atl K",
+  "Opp": "SF",
+  "Points": "0"
+ },
+ {
+  "Name": "Billy Cundiff, Cle K",
+  "Opp": "@Buf",
+  "Points": "0"
+ },
+ {
+  "Name": "Josh Brown*, NYG K  O",
+  "Opp": "Det",
+  "Points": "0"
+ },
+ {
+  "Name": "Josh Scobee, NO K",
+  "Opp": "@Ari",
+  "Points": "0"
+ },
+ {
+  "Name": "Shaun Suisham, Pit K  Q",
+  "Opp": "@Cin",
+  "Points": "0"
+ },
+ {
+  "Name": "Garrett Hartley, Pit K",
+  "Opp": "@Cin",
+  "Points": "0"
+ },
+ {
+  "Name": "Alex Henery, FA K",
+  "Opp": "",
+  "Points": "--"
+ }
+]

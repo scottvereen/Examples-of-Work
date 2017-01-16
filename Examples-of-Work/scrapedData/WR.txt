@@ -1,0 +1,202 @@
+[
+ {
+  "Name": "Mike Evans, TB WR",
+  "Opp": "@Dal",
+  "Points": "13.7"
+ },
+ {
+  "Name": "Julio Jones, Atl WR  Q",
+  "Opp": "SF",
+  "Points": "13.3"
+ },
+ {
+  "Name": "Jordy Nelson, GB WR",
+  "Opp": "@Chi",
+  "Points": "11.6"
+ },
+ {
+  "Name": "A.J. Green, Cin WR  Q",
+  "Opp": "Pit",
+  "Points": "11.4"
+ },
+ {
+  "Name": "Antonio Brown, Pit WR",
+  "Opp": "@Cin",
+  "Points": "11.3"
+ },
+ {
+  "Name": "Larry Fitzgerald, Ari WR",
+  "Opp": "NO",
+  "Points": "11"
+ },
+ {
+  "Name": "Odell Beckham Jr., NYG WR",
+  "Opp": "Det",
+  "Points": "10.9"
+ },
+ {
+  "Name": "T.Y. Hilton, Ind WR",
+  "Opp": "@Min",
+  "Points": "10.4"
+ },
+ {
+  "Name": "Demaryius Thomas, Den WR",
+  "Opp": "NE",
+  "Points": "9.7"
+ },
+ {
+  "Name": "Dez Bryant, Dal WR",
+  "Opp": "TB",
+  "Points": "9.5"
+ },
+ {
+  "Name": "Emmanuel Sanders, Den WR",
+  "Opp": "NE",
+  "Points": "9.5"
+ },
+ {
+  "Name": "Tyrell Williams, SD WR",
+  "Opp": "Oak",
+  "Points": "9.3"
+ },
+ {
+  "Name": "Michael Crabtree, Oak WR  Q",
+  "Opp": "@SD",
+  "Points": "9.1"
+ },
+ {
+  "Name": "Terrelle Pryor Sr., Cle WR",
+  "Opp": "@Buf",
+  "Points": "9"
+ },
+ {
+  "Name": "Jordan Matthews, Phi WR",
+  "Opp": "@Bal",
+  "Points": "8.5"
+ },
+ {
+  "Name": "Brandin Cooks, NO WR",
+  "Opp": "@Ari",
+  "Points": "8.4"
+ },
+ {
+  "Name": "Kelvin Benjamin, Car WR",
+  "Opp": "@Wsh",
+  "Points": "8.4"
+ },
+ {
+  "Name": "Amari Cooper, Oak WR",
+  "Opp": "@SD",
+  "Points": "8.4"
+ },
+ {
+  "Name": "Alshon Jeffery, Chi WR",
+  "Opp": "GB",
+  "Points": "7.9"
+ },
+ {
+  "Name": "DeSean Jackson, Wsh WR",
+  "Opp": "Car",
+  "Points": "7.9"
+ },
+ {
+  "Name": "Willie Snead, NO WR",
+  "Opp": "@Ari",
+  "Points": "7.9"
+ },
+ {
+  "Name": "Marvin Jones, Det WR",
+  "Opp": "@NYG",
+  "Points": "7.8"
+ },
+ {
+  "Name": "Doug Baldwin, Sea WR",
+  "Opp": "LA",
+  "Points": "7.8"
+ },
+ {
+  "Name": "Steve Smith Sr., Bal WR",
+  "Opp": "Phi",
+  "Points": "7.7"
+ },
+ {
+  "Name": "Golden Tate, Det WR",
+  "Opp": "@NYG",
+  "Points": "7.7"
+ },
+ {
+  "Name": "Stefon Diggs, Min WR",
+  "Opp": "Ind",
+  "Points": "7.7"
+ },
+ {
+  "Name": "Michael Thomas, NO WR  Q",
+  "Opp": "@Ari",
+  "Points": "7.7"
+ },
+ {
+  "Name": "Rishard Matthews, Ten WR",
+  "Opp": "@KC",
+  "Points": "7.5"
+ },
+ {
+  "Name": "Jeremy Maclin, KC WR",
+  "Opp": "Ten",
+  "Points": "7.5"
+ },
+ {
+  "Name": "Julian Edelman, NE WR",
+  "Opp": "@Den",
+  "Points": "7.5"
+ },
+ {
+  "Name": "Dontrelle Inman, SD WR",
+  "Opp": "Oak",
+  "Points": "7.4"
+ },
+ {
+  "Name": "Sammy Watkins, Buf WR",
+  "Opp": "Cle",
+  "Points": "7.3"
+ },
+ {
+  "Name": "Jamison Crowder, Wsh WR",
+  "Opp": "Car",
+  "Points": "7.3"
+ },
+ {
+  "Name": "Adam Thielen, Min WR",
+  "Opp": "Ind",
+  "Points": "7.3"
+ },
+ {
+  "Name": "Pierre Garcon, Wsh WR",
+  "Opp": "Car",
+  "Points": "7.3"
+ },
+ {
+  "Name": "Davante Adams, GB WR",
+  "Opp": "@Chi",
+  "Points": "7.2"
+ },
+ {
+  "Name": "Allen Robinson, Jax WR",
+  "Opp": "@Hou",
+  "Points": "7.2"
+ },
+ {
+  "Name": "Mohamed Sanu, Atl WR  Q",
+  "Opp": "SF",
+  "Points": "7.2"
+ },
+ {
+  "Name": "Michael Floyd, Ari WR",
+  "Opp": "NO",
+  "Points": "7.2"
+ },
+ {
+  "Name": "Donte Moncrief, Ind WR  Q",
+  "Opp": "@Min",
+  "Points": "7.1"
+ }
+]

@@ -1,0 +1,202 @@
+[
+ {
+  "Name": "Matt Ryan, Atl QB",
+  "Opp": "SF",
+  "Points": "19.4"
+ },
+ {
+  "Name": "Cam Newton, Car QB",
+  "Opp": "@Wsh",
+  "Points": "18.9"
+ },
+ {
+  "Name": "Aaron Rodgers, GB QB  Q",
+  "Opp": "@Chi",
+  "Points": "17.8"
+ },
+ {
+  "Name": "Colin Kaepernick, SF QB",
+  "Opp": "@Atl",
+  "Points": "17.8"
+ },
+ {
+  "Name": "Kirk Cousins, Wsh QB",
+  "Opp": "Car",
+  "Points": "17.2"
+ },
+ {
+  "Name": "Drew Brees, NO QB",
+  "Opp": "@Ari",
+  "Points": "16.8"
+ },
+ {
+  "Name": "Carson Palmer, Ari QB",
+  "Opp": "NO",
+  "Points": "16.7"
+ },
+ {
+  "Name": "Jameis Winston, TB QB",
+  "Opp": "@Dal",
+  "Points": "16.6"
+ },
+ {
+  "Name": "Russell Wilson, Sea QB",
+  "Opp": "LA",
+  "Points": "16.4"
+ },
+ {
+  "Name": "Tyrod Taylor, Buf QB",
+  "Opp": "Cle",
+  "Points": "16.3"
+ },
+ {
+  "Name": "Philip Rivers, SD QB",
+  "Opp": "Oak",
+  "Points": "16.2"
+ },
+ {
+  "Name": "Ben Roethlisberger, Pit QB",
+  "Opp": "@Cin",
+  "Points": "15.9"
+ },
+ {
+  "Name": "Andrew Luck, Ind QB  Q",
+  "Opp": "@Min",
+  "Points": "14.9"
+ },
+ {
+  "Name": "Derek Carr, Oak QB",
+  "Opp": "@SD",
+  "Points": "14.9"
+ },
+ {
+  "Name": "Dak Prescott, Dal QB",
+  "Opp": "TB",
+  "Points": "14.9"
+ },
+ {
+  "Name": "Matthew Stafford, Det QB  Q",
+  "Opp": "@NYG",
+  "Points": "14.7"
+ },
+ {
+  "Name": "Marcus Mariota, Ten QB",
+  "Opp": "@KC",
+  "Points": "14.7"
+ },
+ {
+  "Name": "Eli Manning, NYG QB",
+  "Opp": "Det",
+  "Points": "14.3"
+ },
+ {
+  "Name": "Andy Dalton, Cin QB",
+  "Opp": "Pit",
+  "Points": "13.9"
+ },
+ {
+  "Name": "Blake Bortles, Jax QB",
+  "Opp": "@Hou",
+  "Points": "13.7"
+ },
+ {
+  "Name": "Tom Brady, NE QB",
+  "Opp": "@Den",
+  "Points": "13.5"
+ },
+ {
+  "Name": "Robert Griffin III, Cle QB",
+  "Opp": "@Buf",
+  "Points": "13.4"
+ },
+ {
+  "Name": "Alex Smith, KC QB",
+  "Opp": "Ten",
+  "Points": "13"
+ },
+ {
+  "Name": "Trevor Siemian, Den QB",
+  "Opp": "NE",
+  "Points": "13"
+ },
+ {
+  "Name": "Joe Flacco, Bal QB",
+  "Opp": "Phi",
+  "Points": "12.9"
+ },
+ {
+  "Name": "Sam Bradford, Min QB",
+  "Opp": "Ind",
+  "Points": "12.9"
+ },
+ {
+  "Name": "Matt Moore, Mia QB",
+  "Opp": "@NYJ",
+  "Points": "11.5"
+ },
+ {
+  "Name": "Brock Osweiler, Hou QB",
+  "Opp": "Jax",
+  "Points": "10.9"
+ },
+ {
+  "Name": "Carson Wentz, Phi QB",
+  "Opp": "@Bal",
+  "Points": "10.4"
+ },
+ {
+  "Name": "Bryce Petty, NYJ QB",
+  "Opp": "Mia",
+  "Points": "9.5"
+ },
+ {
+  "Name": "Matt Barkley, Chi QB",
+  "Opp": "GB",
+  "Points": "8.4"
+ },
+ {
+  "Name": "Jared Goff, LA QB",
+  "Opp": "@Sea",
+  "Points": "7.9"
+ },
+ {
+  "Name": "Matt Schaub, Atl QB",
+  "Opp": "SF",
+  "Points": "0"
+ },
+ {
+  "Name": "Kellen Clemens, SD QB",
+  "Opp": "Oak",
+  "Points": "0"
+ },
+ {
+  "Name": "Brett Hundley, GB QB",
+  "Opp": "@Chi",
+  "Points": "0"
+ },
+ {
+  "Name": "Drew Stanton, Ari QB",
+  "Opp": "NO",
+  "Points": "0"
+ },
+ {
+  "Name": "Blaine Gabbert, SF QB",
+  "Opp": "@Atl",
+  "Points": "0"
+ },
+ {
+  "Name": "Ryan Nassib, NYG QB",
+  "Opp": "Det",
+  "Points": "0"
+ },
+ {
+  "Name": "Landry Jones, Pit QB",
+  "Opp": "@Cin",
+  "Points": "0"
+ },
+ {
+  "Name": "Luke McCown, NO QB",
+  "Opp": "@Ari",
+  "Points": "0"
+ }
+]
