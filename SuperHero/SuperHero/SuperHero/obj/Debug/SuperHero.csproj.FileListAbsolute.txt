@@ -1,0 +1,55 @@
+H:\c# class\Middterm\SuperHero\SuperHero\bin\Debug\SuperHero.exe.config
+H:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.csprojResolveAssemblyReference.cache
+H:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.Form1.resources
+H:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.Properties.Resources.resources
+H:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.csproj.GenerateResource.Cache
+H:\c# class\Middterm\SuperHero\SuperHero\bin\Debug\SuperHero.exe
+H:\c# class\Middterm\SuperHero\SuperHero\bin\Debug\SuperHero.pdb
+H:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.exe
+H:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.pdb
+H:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.ControlPanel.resources
+H:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.HeroSearch.resources
+E:\c# class\Middterm\SuperHero\SuperHero\bin\Debug\SuperHero.exe.config
+E:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.exe
+E:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.pdb
+E:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.csprojResolveAssemblyReference.cache
+E:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.ControlPanel.resources
+E:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.Form1.resources
+E:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.Properties.Resources.resources
+E:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.HeroSearch.resources
+E:\c# class\Middterm\SuperHero\SuperHero\obj\Debug\SuperHero.csproj.GenerateResource.Cache
+E:\c# class\Middterm\SuperHero\SuperHero\bin\Debug\SuperHero.exe
+E:\c# class\Middterm\SuperHero\SuperHero\bin\Debug\SuperHero.pdb
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\bin\Debug\SuperHero.exe.config
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\bin\Debug\SuperHero.exe
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\bin\Debug\SuperHero.pdb
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.csprojResolveAssemblyReference.cache
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.ControlPanel.resources
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.Form1.resources
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.Properties.Resources.resources
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.HeroSearch.resources
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.csproj.GenerateResource.Cache
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.exe
+C:\Users\stimm_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.pdb
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\bin\Debug\SuperHero.exe.config
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.exe
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.pdb
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\bin\Debug\SuperHero.exe
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\bin\Debug\SuperHero.pdb
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.csprojResolveAssemblyReference.cache
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.ControlPanel.resources
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.Form1.resources
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.Properties.Resources.resources
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.HeroSearch.resources
+C:\Users\scott_000\Desktop\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.csproj.GenerateResource.Cache
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\bin\Debug\SuperHero.exe.config
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.exe
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.pdb
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\bin\Debug\SuperHero.exe
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\bin\Debug\SuperHero.pdb
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.csprojResolveAssemblyReference.cache
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.ControlPanel.resources
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.Form1.resources
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.Properties.Resources.resources
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.HeroSearch.resources
+H:\c# class\Middterm\SuperHero\SuperHero\SuperHero\obj\Debug\SuperHero.csproj.GenerateResource.Cache
