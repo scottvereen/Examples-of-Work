@@ -1,0 +1,27 @@
+#body-color
+{
+
+    background-image: url("img/signin.jpg");
+}
+#Sign-In
+{
+
+    background-size: 500px 300px;
+
+
+    margin-top:150px;
+    margin-bottom:150px;
+    margin-right:150px;
+    margin-left:450px;
+    padding:9px 35px;
+}
+#button
+{
+    border-radius:20px;
+    width:200px;
+    height:50px;
+    background:	#006400;
+    font-weight:bold;
+    font-size:20px;
+}
+

@@ -1,0 +1,23 @@
+
+.summery 
+{
+    margin: auto;
+    width: 80%;
+    border: 3px solid black;
+    padding: 20px;
+	background-color: DarkCyan;
+		
+	font-family: "Times New Roman", Times, serif;
+}
+.image
+{
+	
+	display: block;
+    margin: auto;
+    width: 20%;
+    
+	
+	
+}
+
+
