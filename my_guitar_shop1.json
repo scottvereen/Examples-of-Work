@@ -1,0 +1,18 @@
+/**
+ Export to JSON plugin for PHPMyAdmin
+ @version 0.1
+ */
+
+// Database 'my_guitar_shop1'
+
+// my_guitar_shop1.categories
+
+[{"categoryID":"1","categoryName":"Guitars"}, {"categoryID":"2","categoryName":"Basses"}, {"categoryID":"3","categoryName":"Drums"}]
+
+// my_guitar_shop1.products
+
+[{"productID":"2","categoryID":"1","productCode":"les_paul","productName":"Gibson Les Paul","listPrice":"1199.00","description":"","dateAdded":"0000-00-00 00:00:00","discountPercent":"0.00"}, {"productID":"3","categoryID":"1","productCode":"sg","productName":"Gibson SG","listPrice":"2517.00","description":"","dateAdded":"0000-00-00 00:00:00","discountPercent":"0.00"}, {"productID":"4","categoryID":"1","productCode":"fg700s","productName":"Yamaha FG700S","listPrice":"489.99","description":"","dateAdded":"0000-00-00 00:00:00","discountPercent":"0.00"}, {"productID":"5","categoryID":"1","productCode":"washburn","productName":"Washburn D10S","listPrice":"299.00","description":"","dateAdded":"0000-00-00 00:00:00","discountPercent":"0.00"}, {"productID":"6","categoryID":"1","productCode":"rodriguez","productName":"Rodriguez Caballero 11","listPrice":"415.00","description":"","dateAdded":"0000-00-00 00:00:00","discountPercent":"0.00"}, {"productID":"7","categoryID":"2","productCode":"precision","productName":"Fender Precision","listPrice":"799.99","description":"","dateAdded":"0000-00-00 00:00:00","discountPercent":"0.00"}, {"productID":"8","categoryID":"2","productCode":"hofner","productName":"Hofner Icon","listPrice":"499.99","description":"","dateAdded":"0000-00-00 00:00:00","discountPercent":"0.00"}, {"productID":"9","categoryID":"3","productCode":"ludwig","productName":"Ludwig 5-piece Drum Set with Cymbals","listPrice":"699.99","description":"","dateAdded":"0000-00-00 00:00:00","discountPercent":"0.00"}, {"productID":"10","categoryID":"3","productCode":"tama","productName":"Tama 5-Piece Drum Set with Cymbals","listPrice":"799.99","description":"","dateAdded":"0000-00-00 00:00:00","discountPercent":"0.00"}, {"productID":"13","categoryID":"0","productCode":"","productName":"","listPrice":"0.00","description":"","dateAdded":"0000-00-00 00:00:00","discountPercent":"0.00"}, {"productID":"14","categoryID":"2","productCode":"ADFB","productName":"DFB","listPrice":"20.00","description":"DFBD","dateAdded":"2017-03-09 00:00:00","discountPercent":"0.00"}]
+
+// my_guitar_shop1.users
+
+[{"userid":"1","userfirst":"scott","userpassword":"$2y$10$kcKuRRAIUQj5of7rJv\/l\/OZvy7Is2bpvpl9\/XF0yxmrP4F16xng7i","userlast":"vereen","username":"shop","email":"scottvereen@yahoo.com","admin":"0"}, {"userid":"2","userfirst":"scott","userpassword":"$2y$10$fJXDIkvVHpMQyQ7u5iYdceC.kE4\/oDEcRCVcafplbhzSzt4AcqlH6","userlast":"vereen","username":"name","email":"scottvereen@yahoo","admin":"0"}]
